@@ -10,9 +10,7 @@
 
 ## About Me
 
-Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
-
-Passionate about **quantitative finance**, **applied machine learning**, and **open-source intelligence (OSINT)**
+Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler | Passionate about **quantitative finance**, **machine learning**, and **open-source intelligence (OSINT)**
 
 - Currently working on: **Arbihedron** - a triangular arbitrage bot using Graph Neural Networks
 - Learning: Advanced ML architectures, algorithmic trading strategies, DeFi protocols
@@ -99,10 +97,6 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 ## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theredplanetsings&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theredplanetsings&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theredplanetsings&theme=radical&hide_border=true)
 
