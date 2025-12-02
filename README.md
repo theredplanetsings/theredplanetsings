@@ -10,7 +10,9 @@
 
 ## About Me
 
-Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler | Passionate about **quantitative finance**, **machine learning**, and **open-source intelligence (OSINT)**
+Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
+
+Passionate about **quantitative finance**, **applied machine learning**, and **open-source intelligence (OSINT)**
 
 - Currently working on: **Arbihedron** - a triangular arbitrage bot using Graph Neural Networks
 - Learning: Advanced ML architectures, algorithmic trading strategies, DeFi protocols
