@@ -102,15 +102,14 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 
 </div>
 
-## Achievements & Certifications
+## Various Achievements & Certifications
 
 - 🎖️ **Benjamin A. Gilman Scholar** - U.S. Department of State (2023)
 - 🏅 **Dobro Slovo National Slavic Honor Society** - ACTR (2025)
+- 💻 **UR2PhD Undergraduate Pre-Research Experience** - CRA (2025)
 - 📜 **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
 - 🎓 **QuestBridge National College Match Scholar** (2021)
-- 🐻 **Dobro Slovo National Slavic Honour Society Inductee** (2025)
 - 🦅 **Eagle Scout** - Boy Scouts of America
-- 🌟 **Young Marine of the Year** (2021, 2022)
 
 ## Professional Experience
 
@@ -129,6 +128,10 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 **IT Intern** @ Paradigm Companies | *Apr-Aug 2025*
 - Developed automation tools increasing AD management efficiency by 74%
 - Led cybersecurity initiatives and threat assessment programs
+
+**Data Collector** @ College Crisis Initiative | *Sep 2022 - Jan 2025*
+- Gathered information for 12+ research projects on US higher-education institutions using data analysis tools and OSINT methods
+- Collected data from 1500+ US colleges & universities on standardized test policies, COVID-19 policies, board demographics, and recruitment patterns
 
 ## Let's Connect
 
