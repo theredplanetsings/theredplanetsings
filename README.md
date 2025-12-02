@@ -58,7 +58,7 @@ A sophisticated triangular arbitrage system for cryptocurrency and forex markets
 
 ---
 
-### 🧠 [Machine Learning Projects](https://github.com/theredplanetsings/machine-learning)
+### 🧠 [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
 Collection of applied ML projects spanning medical diagnostics, environmental forecasting, and agricultural analysis:
 - **Cancer Classification:** 95%+ accuracy identifying 6 cancer types from miRNA data
 - **E. coli Forecasting:** Recreation of USGS models for Great Lakes beach safety
