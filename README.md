@@ -18,7 +18,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 - Fun fact: I balance 20-30 hrs/week of NCAA wrestling with rigorous CS & Russian Studies coursework
 - Languages: English (Native), Russian (C1), Azerbaijani (B1)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,7 +94,7 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 
 **Tech:** PowerShell | Active Directory | Microsoft 365 | Automation
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
