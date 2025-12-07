@@ -10,13 +10,12 @@
 
 ## About Me
 
-Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler | Passionate about **quantitative finance**, **machine learning**, and **open-source intelligence (OSINT)**
+Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler | Passionate about quantitative finance, applied machine learning, and open-source intelligence
 
-- Currently working on: **Arbihedron** - a triangular arbitrage bot using Graph Neural Networks
+- Currently working on: Arbihedron - a triangular arbitrage detection project using both traditional algorithms & Graph Neural Networks
 - Learning: Advanced ML architectures, algorithmic trading strategies, DeFi protocols
 - Interests: Blockchain/DeFi, quantitative finance, national security, geopolitics
-- Fun fact: I balance 20-30 hrs/week of NCAA wrestling with rigorous CS & Russian Studies coursework
-- Languages: English (Native), Russian (C1), Azerbaijani (B1)
+- Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A2)
 
 ## Tech Stack
 
@@ -52,7 +51,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 ## Featured Projects
 
 ### 🔺 [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
-A sophisticated triangular arbitrage system for cryptocurrency and forex markets, employing both traditional and Graph Neural Network detection engines. Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
+A triangular arbitrage system for cryptocurrency and forex markets, employing both traditional and Graph Neural Network detection engines. Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
 
 **Tech:** Python | Algorithmic Trading | Machine Learning | GNN
 
@@ -133,13 +132,13 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - Gathered information for 12+ research projects on US higher-education institutions using data analysis tools and OSINT methods
 - Collected data from 1500+ US colleges & universities on standardized test policies, COVID-19 policies, board demographics, and recruitment patterns
 
-## Let's Connect
+## Let's Connect!
 
-I'm always interested in discussing:
-- Machine learning applications in finance
-- Quantitative trading strategies
-- Blockchain & DeFi innovations
-- OSINT methodologies
+I'm deeply interested in:
+- Machine learning applications in for finance & supply chains
+- Quantitative finance
+- Blockchain, Web3, and DeFi innovations
+- OSINT
 - Russian language & Eurasian geopolitics
 
 **Reach out:** [Email](mailto:chrutherford@davidson.edu) | [LinkedIn](https://www.linkedin.com/in/csjtrutherford) | [Portfolio](https://theredplanetsings.github.io/csjtrutherford/)
@@ -147,8 +146,6 @@ I'm always interested in discussing:
 ---
 
 <div align="center">
-  
-*"Dedicated. Gritty. Curious. Adaptable."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theredplanetsings&color=blueviolet&style=flat-square)
 
