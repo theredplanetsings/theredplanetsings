@@ -10,11 +10,11 @@
 
 ## About Me
 
-Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler | Passionate about quantitative finance, applied machine learning, and open-source intelligence
+Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
 - Currently working on: Arbihedron - a triangular arbitrage detection project using both traditional algorithms & Graph Neural Networks
 - Learning: Advanced ML architectures, algorithmic trading strategies, DeFi protocols
-- Interests: Blockchain/DeFi, quantitative finance, national security, geopolitics
+- Interests: Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A2)
 
 ## Tech Stack
