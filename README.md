@@ -108,7 +108,7 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - 💻 **UR2PhD Undergraduate Pre-Research Experience** - CRA (2025)
 - 📜 **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
 - 🎓 **QuestBridge National College Match Scholar** (2021)
-- 🦅 **Eagle Scout** - Boy Scouts of America
+- 🦅 **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
 
 ## Professional Experience
 
