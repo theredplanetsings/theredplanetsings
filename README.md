@@ -135,7 +135,7 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 ## Let's Connect!
 
 I'm deeply interested in:
-- Machine learning applications in for finance & supply chains
+- Machine learning applications for finance & supply chains
 - Quantitative finance
 - Blockchain, Web3, and DeFi innovations
 - OSINT
