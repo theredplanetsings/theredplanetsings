@@ -68,7 +68,7 @@ Collection of applied ML projects spanning medical diagnostics, environmental fo
 ---
 
 ### 💰 [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
-Production-ready ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment.
+Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment.
 
 **Tech:** Python | Machine Learning | FastAPI | Real Estate Analytics
 
