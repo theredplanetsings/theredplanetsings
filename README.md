@@ -48,7 +48,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## Featured Projects
+## Projects
 
 ### 🔺 [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
 A triangular arbitrage system for cryptocurrency and forex markets, employing both traditional and Graph Neural Network detection engines. Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
