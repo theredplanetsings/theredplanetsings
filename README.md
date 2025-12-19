@@ -58,12 +58,13 @@ A triangular arbitrage system for cryptocurrency and forex markets, employing bo
 ---
 
 ### 🧠 [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
-Collection of applied ML projects spanning medical diagnostics, environmental forecasting, and agricultural analysis:
+Collection of applied ML projects spanning medical diagnostics, environmental forecasting, agricultural analysis, and aerospace systems:
 - **Cancer Classification:** 95%+ accuracy identifying 6 cancer types from miRNA data
 - **E. coli Forecasting:** Recreation of USGS models for Great Lakes beach safety
 - **Farmland Analysis:** Computer vision for agricultural feature detection from aerial imagery
+- **NASA Telemetry Anomaly Detection:** Unsupervised ensemble learning for spacecraft monitoring
 
-**Tech:** Python | PyTorch | scikit-learn | Computer Vision
+**Tech:** Python | PyTorch | scikit-learn | Computer Vision | Time Series Analysis
 
 ---
 
