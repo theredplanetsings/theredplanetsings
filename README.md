@@ -13,9 +13,9 @@
 Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
 - Currently working on: BetBot, a Kalshi & Polymarket bot made to scan for high probability bets or arbitrage opportunies [major wip, no execution intended due to personal limitations on network, finances, and hardware infrastructure]
-- Learning: Advanced ML architectures, algorithmic trading strategies, DeFi protocols
+- Learning: ML/DL architectures, algorithmic trading methodologies, DeFi protocols, and optimization techniques
 - Interests: Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
-- Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A2)
+- Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A1)
 
 ## Tech Stack
 
