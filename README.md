@@ -50,66 +50,46 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 
 ## Projects
 
-### 🔺 [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
+### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
 A triangular arbitrage system for cryptocurrency and forex markets, employing both traditional and Graph Neural Network detection engines. Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
-
-**Tech:** Python | Algorithmic Trading | Machine Learning | GNN
 
 ---
 
-### 🧠 [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
+### [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
 Collection of applied ML projects spanning medical diagnostics, environmental forecasting, agricultural analysis, and aerospace systems:
 - **Cancer Classification:** 95%+ accuracy identifying 6 cancer types from miRNA data
 - **E. coli Forecasting:** Recreation of USGS models for Great Lakes beach safety
 - **Farmland Analysis:** Computer vision for agricultural feature detection from aerial imagery
 - **NASA Telemetry Anomaly Detection:** Unsupervised ensemble learning for spacecraft monitoring
 
-**Tech:** Python | PyTorch | scikit-learn | Computer Vision | Time Series Analysis
-
 ---
 
-### 💰 [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
+### [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
 Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment.
 
-**Tech:** Python | Machine Learning | FastAPI | Real Estate Analytics
-
 ---
 
-### 📈 [Options-and-Such](https://optionsandsuch.streamlit.app/)
+### [Options-and-Such](https://optionsandsuch.streamlit.app/)
 Real-time options pricing and volatility analysis dashboard featuring Black-Scholes models, implied volatility extraction, and interactive 3D visualizations for derivatives trading analysis.
 
-**Tech:** Python | Financial Modeling | Quantitative Analysis | Streamlit
-
 ---
 
-### 💹 [Trading Tools](https://tradingtools.streamlit.app/)
+### [Trading Tools](https://tradingtools.streamlit.app/)
 Interactive dashboard for backtesting trading strategies, analyzing risk-return profiles, and visualizing real-time market data. Includes correlation heatmaps, SMA backtesting, and custom strategy evaluation.
 
-**Tech:** Python | Algorithmic Trading | Data Science | Technical Analysis
-
 ---
 
-### ⚡ [Active Directory Automation](https://github.com/theredplanetsings/automationAD)
+### [Active Directory Automation](https://github.com/theredplanetsings/automationAD)
 PowerShell automation suite for Active Directory management, achieving 74% speed improvement in user provisioning. Features GUI support, CSV-driven logic, and bulk operations for license assignment and group management.
 
-**Tech:** PowerShell | Active Directory | Microsoft 365 | Automation
+## Achievements & Certifications
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theredplanetsings&theme=radical&hide_border=true)
-
-</div>
-
-## Various Achievements & Certifications
-
-- 🎖️ **Benjamin A. Gilman Scholar** - U.S. Department of State (2023)
-- 🏅 **Dobro Slovo National Slavic Honor Society** - ACTR (2025)
-- 💻 **UR2PhD Undergraduate Pre-Research Experience** - CRA (2025)
-- 📜 **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
-- 🎓 **QuestBridge National College Match Scholar** (2021)
-- 🦅 **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
+- **Benjamin A. Gilman Scholar** - U.S. Department of State (2023)
+- **Dobro Slovo National Slavic Honor Society** - ACTR (2025)
+- **UR2PhD Undergraduate Pre-Research Experience** - CRA (2025)
+- **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
+- **QuestBridge National College Match Scholar** (2021)
+- **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
 
 ## Professional Experience
 
@@ -133,14 +113,14 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - Gathered information for 12+ research projects on US higher-education institutions using data analysis tools and OSINT methods
 - Collected data from 1500+ US colleges & universities on standardized test policies, COVID-19 policies, board demographics, and recruitment patterns
 
-## Let's Connect!
+## Let's Connect
 
-I'm deeply interested in:
+Personal interests:
 - Machine learning applications for finance & supply chains
 - Quantitative finance
-- Blockchain, Web3, and DeFi innovations
+- Blockchain, Web3, and DeFi advancements
 - OSINT
-- Russian language & Eurasian geopolitics
+- Russian and Eurasian languages, culture, & geopolitics
 
 **Reach out:** [Email](mailto:chrutherford@davidson.edu) | [LinkedIn](https://www.linkedin.com/in/csjtrutherford) | [Portfolio](https://theredplanetsings.github.io/csjtrutherford/)
 
