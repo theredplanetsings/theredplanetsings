@@ -1,4 +1,4 @@
-# Hi, I'm Christian Rutherford!
+# Hey, I'm Christian Rutherford
 
 <div align="center">
   
@@ -12,9 +12,9 @@
 
 Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
-- Currently working on: BetBot, a Kalshi & Polymarket bot to scan for high probability bets or arbitrage opportunies [major wip, no execution intended due to personal limitations on network, finances, and hardware infrastructure]
-- Learning: ML/DL architectures, algorithmic trading methodologies, DeFi protocols, and optimization techniques
-- Interests: Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
+- Currently working on "BetBot", a Kalshi & Polymarket bot to scan for high probability bets or arbitrage opportunities (major wip, no execution intended due to personal limitations on network, finances, and hardware infrastructure haha)
+- Learning ML architectures, algorithmic trading frameworks, DeFi protocols, and optimization techniques
+- Interests lie in Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A1)
 
 ## Tech Stack
@@ -51,7 +51,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 ## Projects
 
 ### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
-A triangular arbitrage system for cryptocurrency and forex markets, employing both traditional and Graph Neural Network detection engines. Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
+A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
 
 ---
 
