@@ -17,7 +17,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 - Interests lie in Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A1)
 
-## Tech Stack
+## Tech
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
