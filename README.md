@@ -91,7 +91,7 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - **QuestBridge National College Match Scholar** (2021)
 - **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
 
-## Professional Experience
+## Experience
 
 **Research Fellow** @ College Crisis Initiative | *Jan 2025 - Present*
 - Leading research on critical-need language programs at 500+ US institutions
