@@ -15,7 +15,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 - Currently working on "BetBot", a Kalshi & Polymarket bot to scan for high probability bets or arbitrage opportunities (major wip, no execution intended due to personal limitations on network, finances, and hardware infrastructure haha)
 - Learning ML architectures, Russian, algorithmic trading methods, mathematical modelling, and optimization techniques
 - Interests lie in Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
-- Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A1)
+- Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin, A1)
 
 ## Some of my projects:
 
