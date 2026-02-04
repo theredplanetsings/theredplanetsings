@@ -8,7 +8,7 @@
 
 </div>
 
-## About Me
+## About Me:
 
 Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
@@ -17,7 +17,7 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 - Interests lie in Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin) (A1)
 
-## Projects
+## Some of my projects:
 
 ### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
 A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
@@ -51,7 +51,7 @@ Interactive dashboard for backtesting trading strategies, analyzing risk-return 
 ### [Active Directory Automation](https://github.com/theredplanetsings/automationAD)
 PowerShell automation suite for Active Directory management, achieving 74% speed improvement in user provisioning. Features GUI support, CSV-driven logic, and bulk operations for license assignment and group management.
 
-## Achievements & Certifications
+## Achievements & Certifications:
 
 - **Benjamin A. Gilman Scholar** - U.S. Department of State (2023)
 - **Dobro Slovo National Slavic Honor Society** - ACTR (2025)
@@ -60,7 +60,7 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - **QuestBridge National College Match Scholar** (2021)
 - **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
 
-## Experience
+## Experience:
 
 **Research Fellow** @ College Crisis Initiative | *Jan 2025 - Present*
 - Leading research on critical-need language programs at 500+ US institutions
