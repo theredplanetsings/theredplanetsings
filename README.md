@@ -32,6 +32,16 @@ Collection of applied ML projects spanning medical diagnostics, environmental fo
 
 ---
 
+### [Mathematically Modelled](https://github.com/theredplanetsings/math-modelling)
+Applied mathematical modelling portfolio, following along with MAT-210 - Mathematical Modeling (Davidson College)
+- **Central Limit Theorem Sim:** Monte Carlo dice experiments showing convergence to normality under varying distributions
+- **Monte Carlo Methods:** Buffon’s Needle for π estimation, fish tank simulations, and probability puzzle modeling
+- **Poisson Processes & Queuing:** Pharmacy arrival/service simulation to estimate wait times and closing delays
+- **Linear Programming in Excel:** Resource allocation and scheduling problems solved with simplex and integer programming
+- **Bracketology & Colley Rankings:** Linear-algebra-based NCAA team ratings, weighting experiments, and bracket prediction tests
+
+---
+
 ### [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
 Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment.
 
