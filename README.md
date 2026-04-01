@@ -6,10 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrutherford@davidson.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://theredplanetsings.github.io/csjtrutherford/)
 
-</div>
-
-## About Me:
-
 Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
 - Learning ML architectures, Russian, algorithmic trading methods, mathematical modelling, and optimization techniques
