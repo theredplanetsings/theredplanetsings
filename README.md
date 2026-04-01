@@ -1,4 +1,4 @@
-# Hey, I'm Christian Rutherford
+# Christian Rutherford's GitHub
 
 <div align="center">
   
@@ -12,11 +12,11 @@
 
 Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
 
-- Learning ML architectures, Russian, algorithmic trading methods, mathematical modelling, and optimization techniques
-- Interests lie in Blockchain/DeFi, quantitative finance, national security, geopolitics, open-source intelligence
+- Learning & practicing ML architectures, Russian, real-time systems, mathematical modelling, and optimisation techniques
+- Interests primarily lie in computational optimisation, quant finance, national security, geopolitics, and open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin, A1)
 
-## Some of my projects:
+## Several of my favourite projects:
 
 ### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
 A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
@@ -43,17 +43,17 @@ Applied mathematical modelling portfolio, following along with MAT-210 - Mathema
 ---
 
 ### [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
-Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment.
+Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment. Started this before taking a formal ML class. Employed LLMs heavily, haven't really touched it since.
 
 ---
 
 ### [Options-and-Such](https://optionsandsuch.streamlit.app/)
-Real-time options pricing and volatility analysis dashboard featuring Black-Scholes models, implied volatility extraction, and interactive 3D visualizations for derivatives trading analysis.
+Options pricing and volatility analysis dashboard featuring Black-Scholes models, implied volatility extraction, and interactive 3D visualizations for derivatives trading analysis.
 
 ---
 
 ### [Trading Tools](https://tradingtools.streamlit.app/)
-Interactive dashboard for backtesting trading strategies, analyzing risk-return profiles, and visualizing real-time market data. Includes correlation heatmaps, SMA backtesting, and custom strategy evaluation.
+Dashboard for backtesting trading strategies, analyzing risk-return profiles, and visualizing real-time market data. Includes correlation heatmaps, SMA backtesting, and custom strategy evaluation.
 
 ---
 
