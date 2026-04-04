@@ -18,11 +18,6 @@ Computer Science & Russian Studies student at **Davidson College** (Class of 202
 
 ## Several of my favourite projects:
 
-### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
-A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
-
----
-
 ### [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
 Collection of applied ML projects spanning medical diagnostics, environmental forecasting, agricultural analysis, and aerospace systems:
 - **Cancer Classification:** 95%+ accuracy identifying 6 cancer types from miRNA data
@@ -43,7 +38,7 @@ Applied mathematical modelling portfolio, following along with MAT-210 - Mathema
 ---
 
 ### [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
-Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment. Started this before taking a formal ML class. Employed LLMs heavily, haven't really touched it since.
+Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment. Started this before taking a formal ML class. Employed LLMs heavily, haven't really touched it since pushing.
 
 ---
 
@@ -57,8 +52,10 @@ Dashboard for backtesting trading strategies, analyzing risk-return profiles, an
 
 ---
 
-### [Active Directory Automation](https://github.com/theredplanetsings/automationAD)
-PowerShell automation suite for Active Directory management, achieving 74% speed improvement in user provisioning. Features GUI support, CSV-driven logic, and bulk operations for license assignment and group management.
+### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
+A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
+
+</div>
 
 ## Achievements & Certifications:
 
@@ -68,6 +65,8 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 - **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
 - **QuestBridge National College Match Scholar** (2021)
 - **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
+
+</div>
 
 ## Experience:
 
@@ -90,6 +89,8 @@ PowerShell automation suite for Active Directory management, achieving 74% speed
 **Data Collector** @ College Crisis Initiative | *Sep 2022 - Jan 2025*
 - Gathered information for 12+ research projects on US higher-education institutions using data analysis tools and OSINT methods
 - Collected data from 1500+ US colleges & universities on standardized test policies, COVID-19 policies, board demographics, and recruitment patterns
+
+</div>
 
 ## Let's Connect
 
