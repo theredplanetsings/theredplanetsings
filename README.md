@@ -57,41 +57,6 @@ A triangular arbitrage system for cryptocurrency and forex markets, using both t
 
 </div>
 
-## Achievements & Certifications:
-
-- **Benjamin A. Gilman Scholar** - U.S. Department of State (2023)
-- **Dobro Slovo National Slavic Honor Society** - ACTR (2025)
-- **UR2PhD Undergraduate Pre-Research Experience** - CRA (2025)
-- **Yale Financial Markets (with Honours)** - Yale University/Coursera (2025)
-- **QuestBridge National College Match Scholar** (2021)
-- **Eagle Scout** - Boy Scouts of America, built wooden picnic tables for local high school (2022)
-
-</div>
-
-## Experience:
-
-**Research Fellow** @ College Crisis Initiative | *Jan 2025 - Present*
-- Leading research on critical-need language programs at 500+ US institutions
-- Managing data collection teams and synthesizing findings for institutional analysis
-
-**AI Student Team** @ Davidson Technology & Innovation | *Sep 2025 - Present*
-- Developing educational resources on generative AI for campus community
-- Evaluating emerging AI tools and advising on integration strategies
-
-**Investment Analyst** @ Davidson Investment & Finance Association | *Aug 2024 - Present*
-- Conducting equity research for $800K+ college endowment management
-- Performing valuation modeling and preparing investment recommendations
-
-**IT Intern** @ Paradigm Companies | *Apr-Aug 2025*
-- Developed automation tools increasing AD management efficiency by 74%
-- Led cybersecurity initiatives and threat assessment programs
-
-**Data Collector** @ College Crisis Initiative | *Sep 2022 - Jan 2025*
-- Gathered information for 12+ research projects on US higher-education institutions using data analysis tools and OSINT methods
-- Collected data from 1500+ US colleges & universities on standardized test policies, COVID-19 policies, board demographics, and recruitment patterns
-
-</div>
-
 ## Let's Connect
 
 Personal interests:
