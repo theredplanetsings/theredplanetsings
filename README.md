@@ -10,8 +10,7 @@
 
 ## About Me:
 
-Computer Science & Russian Studies student at **Davidson College** (Class of 2026) | NCAA Division I Wrestler
-
+- Computer Science & Russian Studies student at Davidson College (Class of 2026) | NCAA Division I Wrestler
 - Learning & practicing ML architectures, Russian, real-time systems, mathematical modelling, and optimisation techniques
 - Interests primarily lie in computational optimisation, quant finance, national security, geopolitics, and open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin, A1)
