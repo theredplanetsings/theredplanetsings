@@ -15,7 +15,7 @@
 - Interests primarily lie in computational optimisation, quant finance, national security, geopolitics, and open-source intelligence
 - Languages: English (Native), Russian (C1), Azerbaijani (B1), Chinese (Mandarin, A1)
 
-## Several of my favourite projects:
+## Several of my projects:
 
 ### [Machines: Learnt](https://github.com/theredplanetsings/machine-learning)
 Collection of applied ML projects spanning medical diagnostics, environmental forecasting, agricultural analysis, and aerospace systems:
