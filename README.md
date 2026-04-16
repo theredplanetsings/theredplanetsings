@@ -33,6 +33,7 @@ Applied mathematical modelling portfolio, following along with MAT-210 - Mathema
 - **Poisson Processes & Queuing:** Pharmacy arrival/service simulation to estimate wait times and closing delays
 - **Linear Programming in Excel:** Resource allocation and scheduling problems solved with simplex and integer programming
 - **Bracketology & Colley Rankings:** Linear-algebra-based NCAA team ratings, weighting experiments, and bracket prediction tests
+- **Integer Programming:** Discrete optimisation models solved with integer and binary decision variables
 
 ---
 
