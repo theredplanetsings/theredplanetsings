@@ -27,13 +27,14 @@ Collection of applied ML projects spanning medical diagnostics, environmental fo
 ---
 
 ### [Mathematically Modelled](https://github.com/theredplanetsings/math-modelling)
-Applied mathematical modelling portfolio, following along with MAT-210 - Mathematical Modeling (Davidson College)
+Applied mathematical modelling portfolio, following along with MAT-210 - Mathematical Modelling (Davidson College)
 - **Central Limit Theorem Sim:** Monte Carlo dice experiments showing convergence to normality under varying distributions
 - **Monte Carlo Methods:** Buffon’s Needle for π estimation, fish tank simulations, and probability puzzle modeling
 - **Poisson Processes & Queuing:** Pharmacy arrival/service simulation to estimate wait times and closing delays
 - **Linear Programming in Excel:** Resource allocation and scheduling problems solved with simplex and integer programming
 - **Bracketology & Colley Rankings:** Linear-algebra-based NCAA team ratings, weighting experiments, and bracket prediction tests
 - **Integer Programming:** Discrete optimisation models solved with integer and binary decision variables
+- **Clustering & Unsupervised Learning:** K-means and hierarchical clustering on movie ratings and customer data, with technique comparison and dendrogram visualisation
 
 ---
 
