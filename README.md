@@ -38,11 +38,6 @@ Applied mathematical modelling portfolio, following along with MAT-210 - Mathema
 
 ---
 
-### [Unit Economist](https://github.com/theredplanetsings/Unit-Economist)
-Proof-of-concept ML system predicting apartment rent prices with 97.31% accuracy. Features real-time API, rich analytics dashboard, and complete end-to-end pipeline from data collection to deployment. Started this before taking a formal ML class. Employed LLMs heavily, haven't really touched it since pushing.
-
----
-
 ### [Options-and-Such](https://optionsandsuch.streamlit.app/)
 Options pricing and volatility analysis dashboard featuring Black-Scholes models, implied volatility extraction, and interactive 3D visualizations for derivatives trading analysis.
 
