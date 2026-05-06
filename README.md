@@ -27,6 +27,14 @@ Collection of applied ML projects spanning medical diagnostics, environmental fo
 
 ---
 
+### [March Madness Bracket Optimization](https://github.com/theredplanetsings/march-madness-bracket-optimization)
+Collection of applied ML projects spanning medical diagnostics, environmental forecasting, agricultural analysis, and aerospace systems:
+- March Madness bracket optimization system with machine learning models & Monte Carlo simulations, maximizing probability of finishing 1st in bracket pools rather than just prediction accuracy
+- Data pipeline combining advanced team metrics, historical tournament data, and public pick distributions to identify high-leverage, contrarian selections outperforming the field
+- Designed & evaluated multiple bracket strategies through large-scale simulations, optimizing for expected value, variance, and pool-specific dynamics (e.g., size, ownership overlap)
+
+---
+
 ### [Mathematically Modelled](https://github.com/theredplanetsings/math-modelling)
 Applied mathematical modelling portfolio, following along with MAT-210 - Mathematical Modelling (Davidson College)
 - **Central Limit Theorem Sim:** Monte Carlo dice experiments showing convergence to normality under varying distributions
