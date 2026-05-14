@@ -54,11 +54,6 @@ Options pricing and volatility analysis dashboard featuring Black-Scholes models
 ### [Trading Tools](https://tradingtools.streamlit.app/)
 Dashboard for backtesting trading strategies, analyzing risk-return profiles, and visualizing real-time market data. Includes correlation heatmaps, SMA backtesting, and custom strategy evaluation.
 
----
-
-### [Arbihedron](https://github.com/theredplanetsings/Arbihedron)
-A triangular arbitrage system for cryptocurrency and forex markets, using both traditional and Graph Neural Network detection engines; Exploits price discrepancies across currency triples through automated circular trading strategies with real-time opportunity detection.
-
 </div>
 
 ## Let's Connect
