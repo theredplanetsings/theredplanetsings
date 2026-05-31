@@ -53,12 +53,6 @@ Options pricing and volatility analysis dashboard featuring Black-Scholes models
 ### [Trading Tools](https://tradingtools.streamlit.app/)
 Dashboard for backtesting trading strategies, analyzing risk-return profiles, and visualizing real-time market data. Includes correlation heatmaps, SMA backtesting, and custom strategy evaluation.
 
-</div>
-
-## Connect
-
-[Email](mailto:chrutherford@davidson.edu) | [LinkedIn](https://www.linkedin.com/in/csjtrutherford) | [Portfolio](https://theredplanetsings.github.io/csjtrutherford/)
-
 ---
 
 <div align="center">
