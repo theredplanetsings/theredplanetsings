@@ -55,15 +55,9 @@ Dashboard for backtesting trading strategies, analyzing risk-return profiles, an
 
 </div>
 
-## Let's Connect
+## Connect
 
-Personal interests:
-- Machine learning applications for finance & supply chain optimisation
-- Blockchain, Web3, and DeFi advancements
-- OSINT
-- Russian and Eurasian languages, culture, & geopolitics
-
-**Reach out:** [Email](mailto:chrutherford@davidson.edu) | [LinkedIn](https://www.linkedin.com/in/csjtrutherford) | [Portfolio](https://theredplanetsings.github.io/csjtrutherford/)
+[Email](mailto:chrutherford@davidson.edu) | [LinkedIn](https://www.linkedin.com/in/csjtrutherford) | [Portfolio](https://theredplanetsings.github.io/csjtrutherford/)
 
 ---
 
